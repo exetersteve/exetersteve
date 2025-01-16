@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 Hi, I’m Steve Machala! I’m an IT Professional who loves building things with code.
-- 🌱 I’m currently learning Terraform.
+- 🌱 I’m currently learning Terraform Enterprise.
 - 🔭 I’m working on Automation.
 - 💬 Ask me about Azure .
 - 📫 Reach me at: smachala@gmail.com.
