@@ -1,22 +1,16 @@
-## Hi there 👋
-
-<!--
-**exetersteve/exetersteve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Welcome to My GitHub Profile
- # Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile!
 
 ![Profile Banner](https://via.placeholder.com/1200x300?text=Your+Awesome+Banner+Here)
 
 ## 👋 About Me
-Hi, I’m Steve Machala! I’m an IT Professional who loves building things with code.
-- 🌱 I’m currently learning Terraform Enterprise.
+Hi, I’m Steve Machala! I’m an IT Professional who loves building managing cloud infrastructure.
+- 🌱 I’m currently learning Terraform.
 - 🔭 I’m working on Automation.
-- 💬 Ask me about Azure .
+- 💬 Ask me about Cloud infrastructure.
 - 📫 Reach me at: smachala@gmail.com.
 
 ## 🛠️ My Skills
-- **Languages:C, COBOL
+- **Languages:** [e.g., JavaScript, Python, golang]
 - **Frameworks:** [e.g., React, Django]
 - **Tools:** [e.g., Git, Docker, VSCode]
 
